@@ -16,3 +16,6 @@ go
 + [windows 精品软件的集合](https://github.com/Awesome-Windows/Awesome)
 + [linux 精品软件](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md)
 + [mc 精品软件](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+
+其他
++ [飞桨ocr识别](https://github.com/PaddlePaddle/PaddleOCR) pdf ocr 识别
